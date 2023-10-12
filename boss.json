@@ -1,0 +1,1 @@
+{"1":{"name":"Барон Нашор","hp":1000,"atak":100,"krit":10,"poison":{"chanse":5,"time":5,"atak":3},"deats":0},"2":{"name":"Дракон","hp":1000,"atak":50,"krit":25,"fire":{"chanse":13,"time":3,"atak":15},"deats":0}}
